@@ -1,12 +1,13 @@
 {
   "name": "network-request-list",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get a list of network requests made by a website",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "exports": "./index.js",
   "type": "module",
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/samrobbins85/network-request-list.git"
