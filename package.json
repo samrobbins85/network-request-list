@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/samrobbins85/network-request-list#readme",
   "dependencies": {
-    "puppeteer": "^19.5.2"
+    "puppeteer": "^24.22.3"
   }
 }
